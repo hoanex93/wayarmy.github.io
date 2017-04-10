@@ -1,30 +1,18 @@
-# Nangka - theme for jekyll
-Just simple theme for your jekyll blog, based on default Jekyll theme.
+# Wayarmy's Blog
+Just simple blog, build from [Jekyll](http://jekyllrb.com), base theme: [Nangka](https://github.com/rmsubekti/nangka)
 
-### Feature
+### Content
 
-- [x] **Google Analytics**
-- [x] **Jekyll Search on Archive Page**
-- [x] **Pagination**
-- [x] **404 Error Page**
-- [x] **SEO** Gems: *[jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap), [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag), [jekyll-feed](https://github.com/jekyll/jekyll-feed)*
-- [x] **Disqus Comments**
-- [x] **Ads**
-- [x] **Share Button**
+- [x] **SysAdmin**
+- [x] **SysOps**
+- [x] **DevOps**
+- [x] **Tools and Tuts are free**
+- [x] **...**
 
-### [View Demo](http://rmsubekti.github.io/nangka)
+### [View Blog](http://wayarmy.github.io/)
 
-### Run this theme on your local machine
-To serve this jekyll theme make sure your computer meets the [following requirements](https://jekyllrb.com/docs/installation/#requirements), then run this command.
-
-```
-git clone git@github.com:rmsubekti/nangka.git
-cd nangka
-bundle install
-bundle exec jekyll s
-```
-
-You can change the site configuration in the [_config.yml](https://github.com/rmsubekti/nangka/blob/master/_config.yml) file.
+### Make sure about the content
+- [x] If you want to copy my post, please book an issue for me. Thanks so much!!
 
 License : [MIT](https://github.com/rmsubekti/nangka/blob/master/LICENSE.md)
-Feel free to fork, change, modify and re-use it.
+Feel free to fork, change, modify and re-use it. 
